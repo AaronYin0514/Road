@@ -5,7 +5,8 @@
 ## 学习方向
 
 * 前端
-* 移动端
+* 移动端iOS
+* 移动端Android
 * Web开发
 * 人工智能
 
@@ -24,3 +25,17 @@
 * Python
 * Dart
 
+## 编程语言快速查询工具
+
+* HTML5
+* CSS
+* JavaScript
+* Objective-C
+* Swift
+* C
+* C++
+* Java
+* Kotlin
+* Ruby
+* Python
+* Dart
