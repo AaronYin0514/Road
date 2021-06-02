@@ -2,7 +2,7 @@
 
 ## 语言基础
 
-* HTML
+* HTML5
 * CSS
 * JavaScript
 
