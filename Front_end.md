@@ -9,7 +9,7 @@
 ## 前端必备框架学习
 
 * [jQuery](./jQuery/index.md)
-* Ajax
+* [Ajax](./Ajax/index.md)
 * Bootstrap
 * React/ReactNative/AntDesign/Redux
 * Vue
