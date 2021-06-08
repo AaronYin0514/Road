@@ -12,9 +12,9 @@
 
 ## 编程语言快速入门
 
-* HTML5
-* CSS
-* JavaScript
+* [HTML5](./HTML5/index.md)
+* [CSS](./CSS3/index.md)
+* [JavaScript](./JavaScript2/index.md)
 * Objective-C
 * Swift
 * C
