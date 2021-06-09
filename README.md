@@ -22,7 +22,7 @@
 * Java
 * Kotlin
 * Ruby
-* Python
+* [Python](./Python/index.md)
 * Dart
 
 ## 编程语言快速查询工具
